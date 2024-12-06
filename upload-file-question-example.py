@@ -14,6 +14,7 @@ responda retornando um objeto do tipo json com o tipo boolean no campo valid em 
 o campo description tem que ser em português, tendo no máximo 1000 caracteres
 """
 
+
 # Async function to send content and question to ChatGPT
 async def ask_question(file_content: str, file ) -> str:
     quest = QUESTION.format(
