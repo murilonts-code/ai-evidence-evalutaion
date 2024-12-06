@@ -1,0 +1,23 @@
+[
+  {
+    "file_id": "1af03ba8-5863-4bd4-b64a-17252bf19c3a",
+    "answer": {
+      "valid": false,
+      "description": "O conte\u00fado fornecido n\u00e3o adere como evid\u00eancia ao item 6.8 do CIS Control v8, pois n\u00e3o est\u00e1 relacionado a controles de seguran\u00e7a da informa\u00e7\u00e3o especificados na norma."
+    }
+  },
+  {
+    "file_id": "ec25b90e-0a38-47ae-a51f-16ba7cbb5687",
+    "answer": {
+      "valid": false,
+      "description": "O conte\u00fado fornecido n\u00e3o adere como evid\u00eancia ao item 4.6 do CIS Control V8, pois parece ser um script inv\u00e1lido ou incompleto, sem rela\u00e7\u00e3o direta com as diretrizes de controle do CIS. Recomenda-se revisar e fornecer documentos relevantes para valida\u00e7\u00e3o."
+    }
+  },
+  {
+    "file_id": "12104677-2c56-443f-a910-eba9e5e5bca8",
+    "answer": {
+      "valid": false,
+      "description": "O conte\u00fado do documento relaciona tipos de ativos que devem ser monitorados, mas n\u00e3o fornece diretamente evid\u00eancias de ado\u00e7\u00e3o ou implementa\u00e7\u00e3o de solu\u00e7\u00f5es de ciberseguran\u00e7a listadas no item 13.1 do CIS CONTROL v8."
+    }
+  }
+]

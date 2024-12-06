@@ -1,0 +1,74 @@
+[
+  {
+    "cattegorycode": "7.1",
+    "categoryname": "CIS Control V8",
+    "fileid": "ce72a21e-44bf-45dd-958d-22ffb3dd31d8",
+    "file_name": "check_malwares_veeam.png",
+    "answerid": 3,
+    "assessmentid": "615b7c90-eb5c-42f9-b4cd-f60f0e9c55b7"
+  },
+  {
+    "cattegorycode": "7.2",
+    "categoryname": "CIS Control V8",
+    "fileid": "89b891be-8a5d-4838-91ab-296a90f4fb47",
+    "file_name": "check_malwares_veeam.png",
+    "answerid": 3,
+    "assessmentid": "615b7c90-eb5c-42f9-b4cd-f60f0e9c55b7"
+  },
+  {
+    "cattegorycode": "7.5",
+    "categoryname": "CIS Control V8",
+    "fileid": "5d7cc503-6c74-47be-b1f9-90d7a500dc67",
+    "file_name": "check_malwares_veeam.png",
+    "answerid": 3,
+    "assessmentid": "615b7c90-eb5c-42f9-b4cd-f60f0e9c55b7"
+  },
+  {
+    "cattegorycode": "7.6",
+    "categoryname": "CIS Control V8",
+    "fileid": "e6dcdcf1-2042-4dc9-9e78-4ba3a517164e",
+    "file_name": "check_malwares_veeam.png",
+    "answerid": 4,
+    "assessmentid": "615b7c90-eb5c-42f9-b4cd-f60f0e9c55b7"
+  },
+  {
+    "cattegorycode": "13.1",
+    "categoryname": "CIS Control V8",
+    "fileid": "6c2c32f3-df98-4344-a8fa-661dfeab8cef",
+    "file_name": "13.1 - Graylog.PNG",
+    "answerid": 3,
+    "assessmentid": "4cd3ade8-e34c-4175-9bb8-90ea016cf890"
+  },
+  {
+    "cattegorycode": "18.2",
+    "categoryname": "CIS Control V8",
+    "fileid": "5a8bb987-149f-40ef-8c4e-cf8fadcd61c5",
+    "file_name": "evidencia_pentest_externo.png",
+    "answerid": 3,
+    "assessmentid": "a7450510-91a6-4b18-9aa6-2288e02ebf8b"
+  },
+  {
+    "cattegorycode": "13.2",
+    "categoryname": "CIS Control V8",
+    "fileid": "98cfac01-8b74-4bd3-a84d-27aa8afc725c",
+    "file_name": "13.2 - Agente XDR no host.PNG",
+    "answerid": 4,
+    "assessmentid": "4cd3ade8-e34c-4175-9bb8-90ea016cf890"
+  },
+  {
+    "cattegorycode": "16.8",
+    "categoryname": "CIS Control V8",
+    "fileid": "fd224919-013e-4668-b2f7-f9412949f0d6",
+    "file_name": "Exemplos_de_servidores_em_produção_e_em_homologação.jpg",
+    "answerid": 3,
+    "assessmentid": "185cfd9d-4171-453a-a8ea-99adae788275"
+  },
+  {
+    "cattegorycode": "16.8",
+    "categoryname": "CIS Control V8",
+    "fileid": "9d1e8911-db1d-44a0-8d65-0bdd9fd4a919",
+    "file_name": "Tela_Banco_Oracle_Produção_e_Desenvolvimento_e_Homologação.jpg",
+    "answerid": 3,
+    "assessmentid": "185cfd9d-4171-453a-a8ea-99adae788275"
+  }
+]
